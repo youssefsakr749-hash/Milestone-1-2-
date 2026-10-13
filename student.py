@@ -9,4 +9,4 @@ class student:
             return self.id
         def get_grade(self):
             return self.grade
-      student1 = student("skr",15,3)
+   
